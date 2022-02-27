@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+  width: 100vw;
+  min-height: 100vh;
+  -o-object-position: center center;
+     object-position: center center;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+/*# sourceMappingURL=style.css.map */
